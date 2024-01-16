@@ -1,5 +1,8 @@
 _repo: Industrial-and-commercial-South-America_72488
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72488-h/images/cover.jpg
 creator:
   author:
     agent_name: Peck, Annie S. (Annie Smith)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50585
     wikipedia: https://en.wikipedia.org/wiki/Annie_Smith_Peck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72488#Industrial-and-commercial-South-America
 gutenberg_issued: '2023-12-23'
 gutenberg_type: Text
 identifiers:
